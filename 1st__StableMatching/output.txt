@@ -1,0 +1,5 @@
+School 1 accepts student 6.
+School 2 accepts student 1.
+School 3 accepts student 2.
+School 2 accepts student 4.
+School 3 accepts student 5.
